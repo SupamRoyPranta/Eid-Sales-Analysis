@@ -44,15 +44,5 @@ Top categories: Clothing and Electronics
 High-performing states contributed significantly to total sales
 
 
-**🗂️ Project Structure**
-Eid_Sales_Analysis/
-│
-├── Eid_Sales_Analysis.ipynb     # Main Jupyter Notebook
-├── dataset.csv                   # Sales data file (replace with your file)
-├── README.md                     # Project description
-└── requirements.txt              # Python dependencies
-
-
-
 Author
-Supam Roy
+Supam Roy Pranta
