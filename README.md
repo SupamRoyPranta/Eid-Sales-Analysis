@@ -11,7 +11,7 @@ Top-selling product categories during Eid
 
 Regional sales trends and performance insights
 
-**Tools & Libraries Used**
+**⚙️Tools & Libraries Used**
 
 Python
 
@@ -21,27 +21,16 @@ NumPy – Numerical computations
 
 Matplotlib & Seaborn – Data visualization
 
-**⚙️ How to Run the Project**
 
-Clone or download this repository
+✔**Key Insights**
 
-Open the .ipynb file in Jupyter Notebook or VS Code
+1. Majority of sales came from female customers
 
-Install the dependencies using:
+2. Age group 26–35 years made the highest purchases
 
-pip install pandas numpy matplotlib seaborn
+3. Top categories: Clothing and Electronics
 
-Run each cell sequentially to reproduce the analysis.
-
-**Key Insights**
-
-Majority of sales came from female customers
-
-Age group 26–35 years made the highest purchases
-
-Top categories: Clothing and Electronics
-
-High-performing states contributed significantly to total sales
+4. High-performing states contributed significantly to total sales
 
 
 Author
